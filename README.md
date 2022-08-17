@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sahal-ch.github.io/Sahal-porfolio-website/](https://sahal-ch.github.io/Sahal-porfolio-website/)
 
-- 💬 Ask me about **Python, Django, DRF**
+- 💬 Ask me about **Python, Django, DRF, Postgresql**
 
 - 📫 How to reach me **sahal.ch3@gmail.com**
 
